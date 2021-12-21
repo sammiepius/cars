@@ -1,9 +1,9 @@
-import { StyleSheet } from 'react-native';
+import { StyleSheet, Dimensions } from 'react-native';
 
 const styles = StyleSheet.create({
   carContainer: {
     width: '100%',
-    height: '100%',
+    height: Dimensions.get('window').height,
   },
   titles: {
     marginTop: '30%',
@@ -14,13 +14,20 @@ const styles = StyleSheet.create({
     fontSize: 40,
     fontWeight: '500',
   },
-  subtitle: {},
+  subtitleCTA: {
+    textDecorationLine: 'underline',
+  },
+
   images: {
     width: '100%',
     height: '100%',
-    // // flex: 1,
     resizeMode: 'cover',
     position: 'absolute',
+  },
+  buttonContainer: {
+    position: 'absolute',
+    bottom: 50,
+    width: '100%',
   },
 });
 

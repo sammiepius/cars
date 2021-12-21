@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbf8bbda-52ec-47ce-a032-444a7f1b383c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/adaptive-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/car.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/car1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/car3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/car4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images (20).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/logoo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/CarItem/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/CarItem/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/CarItem/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/CarItem/styles.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,12 +34,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
